@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1><b>Hello Everybody, this is my code</b></h1>
+<p> My name is Aidan Hassett, I am him. I will study my butt off to become the smartest man alive.</p>
+</body>
+</html>
